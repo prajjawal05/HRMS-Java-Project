@@ -28,5 +28,5 @@ The main focus of this project was to learn JAVA GUI and Database Management(we 
  You can contribute to this project by sending a pull request. Feedbacks are most welcome.
 
 ## Uses
- Copy and paste it for your College Projects
+ Copy and paste it for your College Projects 😉.
  We are kind hearted people 😛.
