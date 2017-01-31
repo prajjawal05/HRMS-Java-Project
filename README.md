@@ -14,7 +14,7 @@ The main focus of this project was to learn JAVA GUI and Database Management(we 
  6. __Voila__
 
 ## Created By
- Tushar Murarka - [Facebook](https://www.facebook.com/tusharmurarka27)
+ Tushar Murarka - [GitHub](https://github.com/stark03), [Facebook](https://www.facebook.com/tusharmurarka27)
  
  Himanshu Gusain - [Facebook](https://www.facebook.com/SlOwBoT54)
  
